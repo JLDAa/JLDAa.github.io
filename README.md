@@ -1,1 +1,1 @@
-<h1>Fuck the market, if it doesn't exist, I will build it myself and Things are getting more and more interesting</h1>
+<h1>Fuck the market, if it doesn't exist, I will build it myself</h1>
