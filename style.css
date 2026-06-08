@@ -13,3 +13,25 @@ h2{color:rgb(60, 219, 39)}
     z-index: -100;
     object-fit: cover; 
 }
+.flag{
+    background-color: black;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 25%;
+}
+
+.flag>div{
+    background-color: red;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top: 100px;
+}
+.flag>div div{background-color: gold;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top: 100px;
+}
+
