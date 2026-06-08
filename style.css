@@ -1,6 +1,13 @@
 html{background-color:blanchedalmond;}
-h1{color:rgb(0, 17, 255)}
-h2{color:rgb(60, 219, 39)}
+h1{
+    color:rgb(0, 17, 255);
+    font-size: 3rem; 
+}
+
+h2{
+    color:rgb(60, 219, 39);
+    font-size: 2rem;
+}
 *{text-align: center;}
 #bg-video {
     position: fixed;
@@ -18,7 +25,9 @@ h2{color:rgb(60, 219, 39)}
     width: 500px;
     height: 300px;
     position: relative;
+    top: 650px;
     left: 38%;
+    border: 5px solid ;color: wheat;
 }
 
 .flag>div{
@@ -27,6 +36,7 @@ h2{color:rgb(60, 219, 39)}
     height: 100px;
     width: 100%;
     top: 100px;
+    
 }
 .flag>div div{background-color: gold;
     position: absolute;
