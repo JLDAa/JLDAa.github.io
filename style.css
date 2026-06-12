@@ -18,30 +18,25 @@ h2{
     width: auto;
     height: auto;
     z-index: -100;
-    object-fit: cover; 
+    object-fit: cover;
 }
-.flag{
-    background-color: black;
-    width: 500px;
-    height: 300px;
+
+.container{
     position: relative;
-    top: 650px;
-    left: 38%;
-    border: 5px solid ;color: wheat;
+    top: 250px;
+    left:25%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 50%;
 }
 
-.flag>div{
-    background-color: red;
-    position: absolute;
-    height: 100px;
-    width: 100%;
-    top: 100px;
-    
-}
-.flag>div div{background-color: gold;
-    position: absolute;
-    height: 100px;
-    width: 100%;
-    top: 100px;
+a{color: rgb(255, 255, 255);}
+
+.left{
+    background-color: rgb(84, 77, 150);
+    margin-right: 10px;
 }
 
+.right{
+    background-color: rgb(43, 180, 204);
+    margin-left: 10px;}

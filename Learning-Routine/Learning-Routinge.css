@@ -1,0 +1,12 @@
+.SideBar{
+    border: 10px black solid;
+    margin:10px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 500px auto;
+}
+.content{
+    margin:10px;
+    border: 10px black solid;
+}
