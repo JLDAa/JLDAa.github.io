@@ -33,9 +33,11 @@ h1{
 
 .LiContent{
     font-size: 2rem;
+    
 }
 
 img{
-    width:600px;
-    
+    width:800px;
+    display:block;
+    margin: 10px;
 }
