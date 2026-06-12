@@ -34,3 +34,7 @@ h1{
 .LiContent{
     font-size: 2rem;
 }
+img{
+    wdith:700px;
+    height: auto;
+}
