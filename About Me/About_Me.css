@@ -80,7 +80,7 @@ img{ border-radius: 50%;}
 }
 .wor{
     display: grid;
-    grid-template-columns: 1fr 700px;
+    grid-template-columns: 1fr 3fr;
     grid-template-rows: 130px repeat(21,90px);
     background-color: rgb(255, 255, 255);
     margin: 0px;
@@ -147,7 +147,7 @@ ul{
 }
 .edu{
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: 130px repeat(21,90px);
     background-color: rgb(255, 255, 255);
     margin: 0px;
