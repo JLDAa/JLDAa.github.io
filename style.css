@@ -26,17 +26,23 @@ h2{
     top: 250px;
     left:25%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     width: 50%;
 }
 
 a{color: rgb(255, 255, 255);}
 
 .left{
-    background-color: rgb(84, 77, 150);
+    background-color: #6EA7D465;
     margin-right: 10px;
 }
 
+.middle{
+    background-color: #6ED4BE65;
+    margin-left: 10px;
+    margin-right: 10px;
+}
 .right{
-    background-color: rgb(43, 180, 204);
-    margin-left: 10px;}
+    background-color: #756ED465;
+    margin-left: 10px;
+}
